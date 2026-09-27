@@ -13,8 +13,7 @@ Includes 27 passing unit tests.
 
 ### Example
 
-![Screenshot of BlockText showing a message classified as Spam](BlockText-spam-filter-example)
-
+![Screenshot of BlockText showing a message classified as Spam](BlockText-spam-filter-example.png)
 
 What it does not do
 MMS (picture or group messages) is not handled.
