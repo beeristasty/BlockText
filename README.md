@@ -10,6 +10,12 @@ Recovers Spam with a sender exception.
 Sends short, single-part replies.
 Updates folders and conversations automatically.
 Includes 27 passing unit tests.
+
+### Example
+
+![Screenshot of BlockText showing a message classified as Spam](BlockText-spam-filter-example)
+
+
 What it does not do
 MMS (picture or group messages) is not handled.
 Multipart SMS sending is not supported.
